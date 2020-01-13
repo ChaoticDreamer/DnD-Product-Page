@@ -1,0 +1,102 @@
+body {
+    background-image: url("./img/ppbkgimg1.jpg");
+    display: inline-block;
+    min-width: 100%;
+    min-height: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    
+
+}
+
+
+
+#bit1 {
+    display: flex;
+    justify-content: center;
+    padding-top: 20%;
+    font-size: 23px;
+}
+
+#bit2 {
+    display: flex;
+    justify-content: center;
+    padding-top: 2%;
+    font-size: 23px;
+}
+
+#startbtn {
+    display: flex;
+    justify-content: center;
+}
+
+#introdd {
+    padding-top: 30%;
+    
+}
+
+#whatdd {
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+#video {
+    display: block;
+    margin: auto;
+    padding-top: 3%;
+}
+.thickdd {
+    font-family: 'Ewert' , cursive;
+    background-color: white;
+}
+
+#createcc {
+    padding-top: 10%;
+}
+
+#createc {
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+
+}
+
+#createvideo {
+    display: block;
+    margin: auto;
+    padding-top: 3%;
+    
+}
+
+#artaa {
+    padding-top: 10%;
+}
+
+#artsty {
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+#contactsect {
+    padding-top: 3%;
+}
+
+#contact {
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+#contact2 {
+    display: flex;
+    justify-content: center;
+}
+
+#contact3 {
+    display: flex;
+    justify-content: center;
+}
+
